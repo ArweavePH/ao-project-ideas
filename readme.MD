@@ -1,4 +1,4 @@
-# 🚀 100 AO Project Ideas for Mainnet
+# 🚀 AO Project Ideas for Mainnet
 
 A fully decentralized, on-chain execution environment like **AO** enables **endless possibilities**.  
 Below is a **diverse list of projects** spanning **DeFi, SocialFi, PayFi, RWA, Gaming, Insurance, AI, and more**.
